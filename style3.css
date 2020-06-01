@@ -1,0 +1,12 @@
+body {
+    background: linear-gradient(to right, #304352, #d7d2cc);
+    padding: 5%;
+}
+#main-page {
+
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    border-bottom: 1px solid;
+    margin-top: 2%;
+}

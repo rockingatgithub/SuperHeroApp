@@ -1,0 +1,75 @@
+body {
+    background: linear-gradient(to right, #304352, #d7d2cc);
+}
+#main-head {
+    margin-left: 20%;
+}
+
+#search-bar {
+    margin-left: 38%;
+}
+
+#fav-link {
+
+    text-decoration: none;
+    color: whitesmoke;
+    border-bottom: 1px solid;
+    margin-left: 6%;
+
+}
+
+#hero-list {
+
+    list-style: none;
+    padding: 10px;
+    border: 1px solid;
+    height: auto;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 4%;
+
+}
+
+#note {
+
+    display: inline-block;
+    margin-top: 4%;
+    position: absolute;
+    margin-left: -68%;
+
+}
+
+.hero-link {
+
+    display: inline-block;
+    position: relative;
+    height: auto;
+    width: auto;
+    border-style: none;
+    background-color: inherit;
+
+}
+
+
+.liname {
+    display: inline-block;
+    margin-left: 8%;
+    position: absolute;
+    margin-top: 2%;
+    font-size: 1.2rem;
+}
+
+.listats {
+    display: inline-block;
+    position: absolute;
+    margin-top: 28%;
+    margin-left: 15%;
+}
+
+.like {
+
+    position: absolute;
+    display: inline-block;
+    margin-top: 10%;
+
+}
